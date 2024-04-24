@@ -5,6 +5,7 @@ public class OppUserInpuptHandler {
         oppObj = new Opportunity();
         oppObj.Name='Undefine';
         oppObj.CloseDate= System.Today();
+//hhi
         oppObj.StageName='Qualification';
         
     }
